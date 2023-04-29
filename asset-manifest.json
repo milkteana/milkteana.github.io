@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/niereact/static/css/main.39c810bd.chunk.css",
+    "main.js": "/niereact/static/js/main.818738b7.chunk.js",
+    "main.js.map": "/niereact/static/js/main.818738b7.chunk.js.map",
+    "runtime-main.js": "/niereact/static/js/runtime-main.572fec2d.js",
+    "runtime-main.js.map": "/niereact/static/js/runtime-main.572fec2d.js.map",
+    "static/js/2.7794439b.chunk.js": "/niereact/static/js/2.7794439b.chunk.js",
+    "static/js/2.7794439b.chunk.js.map": "/niereact/static/js/2.7794439b.chunk.js.map",
+    "index.html": "/niereact/index.html",
+    "static/css/main.39c810bd.chunk.css.map": "/niereact/static/css/main.39c810bd.chunk.css.map",
+    "static/js/2.7794439b.chunk.js.LICENSE.txt": "/niereact/static/js/2.7794439b.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/niereact/static/media/bootstrap-icons.8b12346d.woff",
+    "static/media/object-example.jpg": "/niereact/static/media/object-example.9ef38aa3.jpg",
+    "static/media/object-in-object-example.jpg": "/niereact/static/media/object-in-object-example.fd65f008.jpg",
+    "static/media/placeholder-klaus.jpg": "/niereact/static/media/placeholder-klaus.349960b9.jpg",
+    "static/media/index.css": "/niereact/static/media/rodin.9b11a63b.ttf",
+    "static/media/user-data-0.jpg": "/niereact/static/media/user-data-0.cf42e637.jpg",
+    "static/media/user-data-1.jpg": "/niereact/static/media/user-data-1.99dc024c.jpg",
+    "static/media/user-data-2.jpg": "/niereact/static/media/user-data-2.28cdc4a8.jpg",
+    "static/media/user-data-3.jpg": "/niereact/static/media/user-data-3.749e3eeb.jpg",
+    "static/media/user-data-4.jpg": "/niereact/static/media/user-data-4.822bc706.jpg",
+    "static/media/user-files.jpg": "/niereact/static/media/user-files.2d9571e9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.572fec2d.js",
+    "static/js/2.7794439b.chunk.js",
+    "static/css/main.39c810bd.chunk.css",
+    "static/js/main.818738b7.chunk.js"
+  ]
+}
